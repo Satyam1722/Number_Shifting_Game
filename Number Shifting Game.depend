@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669202418 source:d:\c-program\project\number shifting game\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
